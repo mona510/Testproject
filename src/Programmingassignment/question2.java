@@ -48,6 +48,7 @@ public class question2 {
 		 driver.findElement(By.cssSelector("[type=\"submit\"]")).click();
 		 Thread.sleep(2000);
 		 driver.quit();
+		 System.out.print("Test complete");
 				
 
 	}
